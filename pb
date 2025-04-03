@@ -244,7 +244,7 @@ class MiniBrowser(QMainWindow):
         history_dialog.exec()
 
     def show_bookmarks(self):
-        """показать закладоки в диалоговом окне"""
+        """показать закладки в диалоговом окне"""
         bookmarks_dialog = QDialog(self)
         bookmarks_dialog.setWindowTitle("Закладки")
         bookmarks_dialog.resize(500, 300)
