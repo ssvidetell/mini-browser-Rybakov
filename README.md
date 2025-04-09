@@ -22,6 +22,7 @@
 3. Подготовка файлов
    
 · Скачайте архив с браузером
+
 · Распакуйте в отдельную папку, чтобы там были:
  pb.py (основной файл)
  иконки (icon.png, back.png, forward.png, reload.png, home.png, bookmark.png, theme.png)
