@@ -9,7 +9,7 @@
 
 1. Установка зависимостей
 Откройте терминал и выполните:
-pip install PyQt6 PyQt6-WebEngine sqlite3
+pip install PyQt6 PyQt6-WebEngine
 
 2. Запуск браузера
 Скачайте файл pb.py и выполните:
