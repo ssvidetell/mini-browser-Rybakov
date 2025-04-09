@@ -22,8 +22,8 @@
 3. Подготовка файлов
 -Скачайте архив с браузером
 -Распакуйте в отдельную папку, чтобы там были:
- 1) pb.py (основной файл)
- 2) иконки (icon.png, back.png, forward.png, reload.png, home.png, bookmark.png, theme.png)
+ pb.py (основной файл)
+ иконки (icon.png, back.png, forward.png, reload.png, home.png, bookmark.png, theme.png)
 
 4. Запуск браузера
 -Откройте командную строку
